@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/wwt/DMU_ASV_ROS/mrobot/devel -DCMAKE_INSTALL_PREFIX=/home/wwt/DMU_ASV_ROS/mrobot/install -G Unix Makefiles
